@@ -61,7 +61,7 @@ string itc_three_str(string str1, string str2, string str3)
             a+=str1[i];
         }
     }
-    return answer;
+    return a;
 }
 
 int itc_max_char_on_end(string str)
